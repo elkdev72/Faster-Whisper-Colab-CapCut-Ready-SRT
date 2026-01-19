@@ -10,7 +10,6 @@ Generate **CapCut-compatible subtitles** (`.srt`) directly from `.mp4` or audio 
 
 ---
 
-## 🚀 Open in Colab
 
 ## 🚀 Open in Colab
 
