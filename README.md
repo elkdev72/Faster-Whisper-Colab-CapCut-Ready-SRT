@@ -70,7 +70,7 @@ FFmpeg automatically extracts audio.
 ---
 
 ## 📺 Tutorial Video
-📌 YouTube walkthrough: **(link here)**
+📌 YouTube walkthrough: **https://www.youtube.com/watch?v=EJWs1ZT8r2M**
 
 ---
 
